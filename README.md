@@ -4,7 +4,7 @@
 
 ***Sketch*** method was proposed for the correlation-based exploratory data analysis of Electronic Health Records (EHRs).  
 
-![The Sketch method](https://github.com/mtcazzolato/sketch/blob/master/img/sketch.png)  
+![The Sketch method](https://github.com/mtcazzolato/sketch/blob/main/img/sketch.png)  
 
 Sketch was proposed in the work [Cazzolato *et al.*, 2021], which will be presented at SBBD-2021:  
 
